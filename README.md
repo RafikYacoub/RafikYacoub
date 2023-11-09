@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fwez%2Fwezterm%2Fissues%2F4131&psig=AOvVaw0BNUWj38hVd2iebpm_0GyK&ust=1699633362043000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiluOept4IDFQAAAAAdAAAAABAE"  />
+  <img height="150" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif"  />
 </div>
 
 ###
